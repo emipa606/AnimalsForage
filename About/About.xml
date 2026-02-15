@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animals Forage (Continued)</name>
+  <packageId>Mlie.AnimalsForage</packageId>
+  <author>Simmin</author>
+  <url>https://github.com/emipa606/AnimalsForage</url>
+  <supportedVersions>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+      <downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+  </loadAfter>
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
+Update of Simmins mod https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432
+
+Included the patches from my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2384304724]Animals Forage - Patches[/url]:
+
+[h3]Fish[/h3]
+[list]
+[*]Enhydriodon, Palaeeudyptes, Gomphotaria - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[*]Penguin, Fishercat, Otter, Walrus, Spotted Seal, Fisher - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
+[*]Fisher - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090705625]Erin's Critter Collection[/url]
+[*]Anaconda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2188840249]HC_Animal_2[/url]
+[*]Crocodile, Alligator - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2207620932]HC_Animal_4[/url]
+[*]Mud Snake - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
+[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
+[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[*]Otter - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364938]VAE - Boreal Forest[/url]
+[/list]
+[h3]Bamboo from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden[/url][/h3]
+[list]
+[*]Giant Panda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2366589898]VAE - Endangered[/url]
+[*]Red Panda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260502331]VAE - Temperate Forest[/url]
+[*]Panda, Red Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
+[*]Red Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=1970508422]Forest Critters[/url]
+[*]Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=2028973691]Tropi[CKAPP] Rainforest Mod[/url]
+[/list]
+[h3]Bugs (Insect meat)[/h3]
+[list]
+[*]Kiwi, Silkie Chicken, Duck-billed Platypus - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
+[*]Armadillo, Hedgehog - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090705625]Erin's Critter Collection[/url]
+[*]Jungle Fowl - [url=https://steamcommunity.com/workshop/filedetails/?id=2028973691]Tropi[CKAPP] Rainforest Mod[/url]
+[*]Badger, Green Snake - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
+[*]Badger - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
+[*]Compsognathus - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
+[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[/list]
+[h3]Fungus[/h3]
+[list]
+[*]Peccary - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
+[*]Giant Boars - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2243330771]LotR - Dwarves[/url]
+[*]Daeodon - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[*]Pigs-variants (When tame) - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2070686241]Legacy Ark[/url]
+[/list]
+[h3]Berries[/h3]
+[list]
+[*]Black Bear - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
+[*]Black Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
+[*]Short-Faced Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[*]Megabear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2498162709]Weaponized Husbandry[/url]
+[*]Cave Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2576512001]Vanilla Animals Expanded — Caves[/url]
+[/list]
+[h3]Bones from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408]Rim of Madness - Bones[/url][/h3]
+[list]
+[*]Warg - Vanilla
+[*]Vulture - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2086753781]BIRD UP! Vulture[/url]
+[*]Raven - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090295877]BIRD UP! Raven[/url]
+[*]Spotted Hyena, Striped Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2255067914]Hyena[/url]
+[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2196951034]HC_Animal_3[/url]
+[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1849183875]VAE - Desert[/url]
+[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
+[*]Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
+[*]Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1836900626]VAE - Arid Shrubland[/url]
+[*]Arctic Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364938]VAE - Boreal Forest[/url]
+[*]Tasmanian Devil - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2366589898]VAE - Endangered[/url]
+[*]Tasmanian Devil - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2000213010]Tasmanian Devils[/url]
+[*]Dinocrocuta - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[*]Megawolverine - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364585]VAE - Tundra[/url]
+[*]American Possum - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260426720]American Possum[/url]
+[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
+[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[/list]
+[h3]Rat Meat[/h3]
+[list]
+[*]Rattlesnake - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
+[*]Adders, Black Desert Cobras - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures[/url]
+[*]Snakes - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
+[/list]
+[h3]Capybara Meat[/h3]
+[list]
+[*]Dinilysia, Gigantophis, Wonambi, Yurlunggur - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[/list]
+[h3]Josephoartigasia Meat from Megafauna[/h3]
+[list]
+[*]Titanoboa - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[/list]
+
+
+[img]https://img.litet.net/logos/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img]
+
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>
