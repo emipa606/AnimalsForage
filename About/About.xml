@@ -10,6 +10,7 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -29,89 +30,147 @@ Included the patches from my [url=https://steamcommunity.com/sharedfiles/filedet
 
 [h3]Fish[/h3]
 [list]
-[*]Enhydriodon, Palaeeudyptes, Gomphotaria - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
-[*]Penguin, Fishercat, Otter, Walrus, Spotted Seal, Fisher - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
-[*]Fisher - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090705625]Erin's Critter Collection[/url]
-[*]Anaconda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2188840249]HC_Animal_2[/url]
-[*]Crocodile, Alligator - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2207620932]HC_Animal_4[/url]
-[*]Mud Snake - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
-[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
-[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
-[*]Otter - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364938]VAE - Boreal Forest[/url]
+[*]Enhydriodon, Palaeeudyptes, Gomphotaria - Megafauna
+[*]Penguin, Fishercat, Otter, Walrus, Spotted Seal, Fisher - AnimalCollabProj
+[*]Fisher - Erin's Critter Collection
+[*]Anaconda - HC_Animal_2
+[*]Crocodile, Alligator - HC_Animal_4
+[*]Mud Snake - Legacy Ark
+[*]Dinosaurs - Dinosauria
+[*]Dinosaurs - Jurassic Rimworld
+[*]Otter - VAE - Boreal Forest
 [/list]
-[h3]Bamboo from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2007061826]VGP Vegetable Garden[/url][/h3]
+[h3]Bamboo from VGP Vegetable Garden[/h3]
 [list]
-[*]Giant Panda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2366589898]VAE - Endangered[/url]
-[*]Red Panda - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260502331]VAE - Temperate Forest[/url]
-[*]Panda, Red Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
-[*]Red Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=1970508422]Forest Critters[/url]
-[*]Panda - [url=https://steamcommunity.com/workshop/filedetails/?id=2028973691]Tropi[CKAPP] Rainforest Mod[/url]
+[*]Giant Panda - VAE - Endangered
+[*]Red Panda - VAE - Temperate Forest
+[*]Panda, Red Panda - AnimalCollabProj
+[*]Red Panda - Forest Critters
+[*]Panda - Tropi[CKAPP] Rainforest Mod
 [/list]
 [h3]Bugs (Insect meat)[/h3]
 [list]
-[*]Kiwi, Silkie Chicken, Duck-billed Platypus - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
-[*]Armadillo, Hedgehog - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090705625]Erin's Critter Collection[/url]
-[*]Jungle Fowl - [url=https://steamcommunity.com/workshop/filedetails/?id=2028973691]Tropi[CKAPP] Rainforest Mod[/url]
-[*]Badger, Green Snake - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
-[*]Badger - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
-[*]Compsognathus - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
-[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[*]Kiwi, Silkie Chicken, Duck-billed Platypus - AnimalCollabProj
+[*]Armadillo, Hedgehog - Erin's Critter Collection
+[*]Jungle Fowl - Tropi[CKAPP] Rainforest Mod
+[*]Badger, Green Snake - Legacy Ark
+[*]Badger - Westerado
+[*]Compsognathus - Dinosauria
+[*]Dinosaurs - Jurassic Rimworld
 [/list]
 [h3]Fungus[/h3]
 [list]
-[*]Peccary - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
-[*]Giant Boars - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2243330771]LotR - Dwarves[/url]
-[*]Daeodon - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
-[*]Pigs-variants (When tame) - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2070686241]Legacy Ark[/url]
+[*]Peccary - AnimalCollabProj
+[*]Giant Boars - LotR - Dwarves
+[*]Daeodon - Megafauna
+[*]Pigs-variants (When tame) - Legacy Ark
 [/list]
 [h3]Berries[/h3]
 [list]
-[*]Black Bear - [url=https://steamcommunity.com/workshop/filedetails/?id=2208467668]AnimalCollabProj[/url]
-[*]Black Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
-[*]Short-Faced Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
-[*]Megabear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2498162709]Weaponized Husbandry[/url]
-[*]Cave Bear - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2576512001]Vanilla Animals Expanded — Caves[/url]
+[*]Black Bear - AnimalCollabProj
+[*]Black Bear - Westerado
+[*]Short-Faced Bear - Megafauna
+[*]Megabear - Weaponized Husbandry
+[*]Cave Bear - Vanilla Animals Expanded — Caves
 [/list]
-[h3]Bones from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408]Rim of Madness - Bones[/url][/h3]
+[h3]Bones from Rim of Madness - Bones[/h3]
 [list]
 [*]Warg - Vanilla
-[*]Vulture - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2086753781]BIRD UP! Vulture[/url]
-[*]Raven - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2090295877]BIRD UP! Raven[/url]
-[*]Spotted Hyena, Striped Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2255067914]Hyena[/url]
-[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2196951034]HC_Animal_3[/url]
-[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1849183875]VAE - Desert[/url]
-[*]Hyena - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
-[*]Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
-[*]Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1836900626]VAE - Arid Shrubland[/url]
-[*]Arctic Coyote - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364938]VAE - Boreal Forest[/url]
-[*]Tasmanian Devil - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2366589898]VAE - Endangered[/url]
-[*]Tasmanian Devil - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2000213010]Tasmanian Devils[/url]
-[*]Dinocrocuta - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
-[*]Megawolverine - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1895364585]VAE - Tundra[/url]
-[*]American Possum - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2260426720]American Possum[/url]
-[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1136958577]Dinosauria[/url]
-[*]Dinosaurs - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[*]Vulture - BIRD UP! Vulture
+[*]Raven - BIRD UP! Raven
+[*]Spotted Hyena, Striped Hyena - Hyena
+[*]Hyena - HC_Animal_3
+[*]Hyena - VAE - Desert
+[*]Hyena - Medieval Overhaul
+[*]Coyote - Westerado
+[*]Coyote - VAE - Arid Shrubland
+[*]Arctic Coyote - VAE - Boreal Forest
+[*]Tasmanian Devil - VAE - Endangered
+[*]Tasmanian Devil - Tasmanian Devils
+[*]Dinocrocuta - Megafauna
+[*]Megawolverine - VAE - Tundra
+[*]American Possum - American Possum
+[*]Dinosaurs - Dinosauria
+[*]Dinosaurs - Jurassic Rimworld
 [/list]
 [h3]Rat Meat[/h3]
 [list]
-[*]Rattlesnake - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2236973780]Westerado[/url]
-[*]Adders, Black Desert Cobras - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures[/url]
-[*]Snakes - [url=https://steamcommunity.com/workshop/filedetails/?id=2070686241]Legacy Ark[/url]
+[*]Rattlesnake - Westerado
+[*]Adders, Black Desert Cobras - Infectious Creatures
+[*]Snakes - Legacy Ark
 [/list]
 [h3]Capybara Meat[/h3]
 [list]
-[*]Dinilysia, Gigantophis, Wonambi, Yurlunggur - [url=https://steamcommunity.com/workshop/filedetails/?id=1419618659]Jurassic Rimworld[/url]
+[*]Dinilysia, Gigantophis, Wonambi, Yurlunggur - Jurassic Rimworld
 [/list]
 [h3]Josephoartigasia Meat from Megafauna[/h3]
 [list]
-[*]Titanoboa - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1055485938]Megafauna[/url]
+[*]Titanoboa - Megafauna
 [/list]
-
 
 [img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/AnimalsForage][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToRemove.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
+This mod allows various animals to forage for food using some of the Animal Behaviours available through Vanilla Expanded Framework.
+
+[h1]Hungry:[/h1]
+Each animal can have 1 "dig when hungry" comp, so I had to chose what food fit best.
+These animals will get this food from any diggable terrain.
+
+[h1]Vanilla:[/h1]
+Grizzly Bears will forage for berries, 
+Ducks will forage for fish, (they're Omnivorous now, no need for my other patch)
+Chickens will forage for bugs, (insect meat)(they're also Omnivorous now, no need for my other patch)
+Arctic foxes will forage for hare meat, (that they stored back in summer)
+Cobras will forage for rat meat, (they found a burrow)
+
+[h1]VAE:[/h1] (1.3 only)
+Crocodile will forage for fish,
+Platypus will forage for bugs,
+Otters will forage for fish,
+Black Bears will forage for berries,
+Rattlesnakes will forage for rat meat,
+Hedgehogs are omnivores now and will forage for bugs,
+Badgers will forage for bugs,
+Alligators will forage for fish,
+Anacondas will forage for fish,
+
+Erin's Friendly Ferrets
+Ferrets will forage for rat meat
+
+[h1]Daily:[/h1]
+Each animal can also have 1 "dig periodically" comp.
+
+Pigs will dig up 10 Mushrooms every day. (truffles anyone?)
+Wild Boars will dig up 5 Mushrooms every day. (not as well trained)
+(only when tamed)
+
+[h1]FAQ[/h1]
+Q: Does this mean these animals won't need other sources of food?
+A: These values are quite small and these animals will still eat other foods, predators will still hunt other animals.
+
+Q: Does this mean ducks and chickens will hunt rats and squirrels?
+A: No, being a predator is separate from being a carnivore.
+
+Q: Rockhopper penguins from endangered!
+A: Both VAE Penguins already do this, that was the inspiration for this mod.
+
+Q: Pangolins from endangered!
+A: VAE Pangolin already have a unique "eats ants when hungry" feature, so I didn't touch it.
+
+[h1]Credits:[/h1]
+Thank you to Sarg and Oskar for your work on the vanilla expanded series, and permission to use your fish 😊
+
+If you enjoy the mod be sure to give it a like!
 
 [img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
@@ -122,6 +181,8 @@ Included the patches from my [url=https://steamcommunity.com/sharedfiles/filedet
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list] 
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3667046888][img]https://img.shields.io/github/v/release/emipa606/AnimalsForage?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | animals, foraging</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>
